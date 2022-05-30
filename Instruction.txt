@@ -1,0 +1,13 @@
+CALCULATOR made by: Zoe
+
+Calculator desktop application
+
+Python PyQt5 
+
+To run the program
+
+1.Download python 3.8 and add to path
+
+2.go to cmd and type "pip install pyqt5", when the installation is done
+
+3.open folder pycalculator and run "main_calculator.py"
